@@ -12,3 +12,9 @@ def happy_birthday(birthday_kids)
 end
 
 
+# my_stocks.select do |_name, data|
+#   data['price'] > 500
+# end.sort_by do |_name, data|
+#   -data['price']
+# end.each do |name, data|
+#   # ... print or whatever
